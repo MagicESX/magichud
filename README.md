@@ -6,3 +6,8 @@ credits to JoeHUD For initial release, my version has fixed CSS, UI And MAP.
 Download From 
 
 http://192.223.26.122/magichud.rar
+
+
+message on discord for support
+
+MagicESX.com#2937
